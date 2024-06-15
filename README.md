@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `Testing Guidance`
+Visual Check: Ensure the tasks are color-coded correctly (green for completed and red for not completed).
+Functionality Check: Test adding, completing, filtering, and removing tasks.
+Completed Task Check: Ensure the buttons remain fully visible and aligned when a task is marked as completed.
